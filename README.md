@@ -26,4 +26,4 @@
 ## 주요기능
 #### 객체인식 - <a href="https://github.com/minseok0416/criminal-capture-drone/blob/master/aitest.py">상세보기 - WIKI 이동
 
-#### 서보제어 - <a href="https://github.com/minseok0416/smart-room-project/blob/master/app.js">상세보기 - WIKI 이동
+#### 서보제어 - <a href="https://github.com/minseok0416/criminal-capture-drone/blob/master/servo.py">상세보기 - WIKI 이동
